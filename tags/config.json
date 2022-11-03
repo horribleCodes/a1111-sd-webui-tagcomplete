@@ -16,6 +16,8 @@
 	"appendComma": true,
 	"useWildcards": true,
 	"useEmbeddings": true,
+	"useSnippets": true,
+	"snippetPrefix": "!",
 	"translation": {
 		"searchByTranslation": true,
 		"onlyShowTranslation": false
